@@ -14,13 +14,13 @@ $(document).ready(function () {
     $("section").sectionInView(
       function (sectionId) {
           // do something when section is in viewport
-          // for exampe highlight related link in navbar            $('a[href$="'+sectionId+'"]').closest('li').addClass('active');
+          // for exampe highlight related link in navbar           
 
           $('a[href$="'+ sectionId +'"]').closest('li').addClass('active');
       },
       function (sectionId) {
           // do something when section is out of viewport
-          // for exampe remove highlight on related link in navbar            $('a[href$="'+sectionId+'"]').closest('li').addClass('active');
+          // for exampe remove highlight on related link in navbar 
 
           $('a[href$="'+ sectionId +'"]').closest('li').removeClass('active');
       },
