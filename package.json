@@ -1,0 +1,24 @@
+{
+  "name": "section-in-view",
+  "version": "1.0.0",
+  "description": "A jQuery plugin that detects if a section is in viewport",
+  "main": "sectionInView.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inView",
+    "viewport",
+    "jQuery"
+  ],
+  "author": {
+    "name": "Ibrahim Khalil Khalbous",
+    "email": "dev@semiorbit.com",
+    "url": "https://semiorbit.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semiorbit/section-in-view.git"
+  },
+  "license": "MIT"
+}
