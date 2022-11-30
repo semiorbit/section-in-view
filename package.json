@@ -1,5 +1,5 @@
 {
-  "name": "section-in-view",
+  "name": "@semiorbit/section-in-view",
   "version": "1.0.0",
   "description": "A jQuery plugin that detects if a section is in viewport",
   "main": "sectionInView.min.js",
